@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * _my_exit - exits the shell
  * @inf: Structure containing potential arguments
